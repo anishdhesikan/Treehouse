@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 6400e2b5dded5e44597358fc53d08378
+timeCreated: 1476024061
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Backbone
+    100004: Backbone_001
+    100006: Backbone_002
+    100008: Backleg_L
+    100010: Backleg_L_001
+    100012: Backleg_L_002
+    100014: Backleg_R
+    100016: Backleg_R_001
+    100018: Backleg_R_002
+    100020: Body
+    100022: //RootNode
+    100024: Eyes
+    100026: Frontleg_L
+    100028: Frontleg_L_001
+    100030: Frontleg_L_002
+    100032: Frontleg_R
+    100034: Frontleg_R_001
+    100036: Frontleg_R_002
+    100038: Head
+    100040: Head_0
+    100042: Head_L_001
+    100044: Head_R_001
+    100046: Hip
+    100048: Horns
+    100050: IK-Backbone
+    100052: IK-Backleg_L
+    100054: IK-Backleg_R
+    100056: IK-BacklegTarget_L
+    100058: IK-BacklegTarget_R
+    100060: IK-Fronleg_L
+    100062: IK-Frontleg_R
+    100064: IK-FrontlegTarget_L
+    100066: IK-FrontlegTarget_R
+    100068: IK-Head
+    100070: IK-Hip
+    100072: Main
+    100074: Plane_001
+    400000: Armature
+    400002: Backbone
+    400004: Backbone_001
+    400006: Backbone_002
+    400008: Backleg_L
+    400010: Backleg_L_001
+    400012: Backleg_L_002
+    400014: Backleg_R
+    400016: Backleg_R_001
+    400018: Backleg_R_002
+    400020: Body
+    400022: //RootNode
+    400024: Eyes
+    400026: Frontleg_L
+    400028: Frontleg_L_001
+    400030: Frontleg_L_002
+    400032: Frontleg_R
+    400034: Frontleg_R_001
+    400036: Frontleg_R_002
+    400038: Head
+    400040: Head_0
+    400042: Head_L_001
+    400044: Head_R_001
+    400046: Hip
+    400048: Horns
+    400050: IK-Backbone
+    400052: IK-Backleg_L
+    400054: IK-Backleg_R
+    400056: IK-BacklegTarget_L
+    400058: IK-BacklegTarget_R
+    400060: IK-Fronleg_L
+    400062: IK-Frontleg_R
+    400064: IK-FrontlegTarget_L
+    400066: IK-FrontlegTarget_R
+    400068: IK-Head
+    400070: IK-Hip
+    400072: Main
+    400074: Plane_001
+    2300000: Plane_001
+    3300000: Plane_001
+    4300000: Plane_001
+    4300002: Horns
+    4300004: Head
+    4300006: Eyes
+    4300008: Body
+    7400000: Default Take
+    7400002: Die_000
+    7400004: Die_001
+    7400006: Eat_001
+    7400008: Idle
+    7400010: Idle_000
+    7400012: Idle_001
+    7400014: LookAround_000
+    7400016: LookAround_001
+    7400018: Run
+    7400020: Stand
+    9500000: //RootNode
+    13700000: Body
+    13700002: Eyes
+    13700004: Head
+    13700006: Horns
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
