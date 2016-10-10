@@ -142,8 +142,8 @@ public class ArcTeleporter : MonoBehaviour
 				return;
 			}
 			GetComponent<SteamVR_TrackedController>().PadClicked += new ClickedEventHandler(PadClicked);
-			GetComponent<SteamVR_TrackedController>().PadUnclicked += new ClickedEventHandler(PadUnClicked);
-			GetComponent<SteamVR_TrackedController>().TriggerClicked += new ClickedEventHandler(TriggerClicked);
+//			GetComponent<SteamVR_TrackedController>().PadUnclicked += new ClickedEventHandler(PadUnClicked);
+			GetComponent<SteamVR_TrackedController>().PadUnclicked += new ClickedEventHandler(TriggerClicked);
 		}
 	}
 
@@ -366,8 +366,10 @@ public class ArcTeleporter : MonoBehaviour
 
 	void TriggerClicked(object sender, ClickedEventArgs e)
 	{
-		if (disablePreMadeControls) return;
+//		if (disablePreMadeControls) return;
 		Teleport();
+
+		DisableTeleport();
 	}
 
 	virtual public void Teleport()
